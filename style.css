@@ -1,50 +1,7 @@
 body {
-    font-family:times;
-    color:black;
-    font-size:medium;
+    font-family: "Arial";
+    color: #0531b5;
+    background-color: #000000;
+    text-align: center;
 }
 
-ul {
-    color:blue;
-}
-
-ol {
-    type="a";
-}
-
-.odd {
-    background:gray;
-}
-
-img {
-    float:right;
-    margin:4px;
-}
-
-.links {
-    font-family:sans-serif
-}
-
-.best {
-    font-style:italic;
-}
-
-table p {
-    font-size:small;
-}
-
-table {
-    margin:2px;
-}
-
-table table {
-    margin:1px;
-}
-
-a:link {
-    color:red;
-}
-
-a:visited {
-    color:green;
-}
